@@ -1,7 +1,6 @@
 ---
 title: "Classification of Exercise Quality based on Machine Learning Model"
 author: "Hafiz Mohammad Sohaib Naim Nizami"
-date: "5/13/2021"
 output: 
   html_document: 
     keep_md: yes
